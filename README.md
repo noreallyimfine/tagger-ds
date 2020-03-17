@@ -3,13 +3,11 @@
 You can find the project at [TaggerHQ](https://taggerhq.com/).
 
 ## Contributors
-| [Avraham Jacobsohn](https://github.com/noreallyimfine) |    
-[John Morrison](https://github.com/JohnMorrisonn) |    
-[Samuel Hepner](https://github.com/samuelhepner) |  
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |   
-| [<img src="https://ca.slack-edge.com/T4JUEB3ME-UJJJCQN4R-3d9845ab1b54-512" width = "200" />](https://github.com/noreallyimfine) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UL5V3G7A9-f4a14f4623d7-512" width = "200" />](https://github.com/JohnMorrisonn) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UJ5GAHMS7-abc28b1e9d94-512" width = "200" />](https://github.com/samuelhepner) |  
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/noreallyimfine)|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JohnMorrisonn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/samuelhepner) |   
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/avraham-jacobsohn-b88b4526/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/johnjmorrison/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/samuel-hepner/) |   
+[Avraham Jacobsohn](https://github.com/noreallyimfine) |  [John Morrison](https://github.com/JohnMorrisonn) | [Samuel Hepner](https://github.com/samuelhepner)
+----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------
+[<img src="https://ca.slack-edge.com/T4JUEB3ME-UJJJCQN4R-3d9845ab1b54-512" width = "200" />](https://github.com/noreallyimfine) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UL5V3G7A9-f4a14f4623d7-512" width = "200" />](https://github.com/JohnMorrisonn) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UJ5GAHMS7-abc28b1e9d94-512" width = "200" />](https://github.com/samuelhepner)
+[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/noreallyimfine)|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JohnMorrisonn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/samuelhepner)
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/avraham-jacobsohn-b88b4526/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/johnjmorrison/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/samuel-hepner/)  
 
 
 
